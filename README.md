@@ -2,6 +2,24 @@
 
 Automated GitHub metrics tracking with a beautiful dashboard.
 
+## Why Use This?
+
+Ever wanted to track your GitHub journey over time? Whether you're building your developer portfolio, showcasing your growth to employers, or just curious about how your projects are performing, this template makes it incredibly easy to visualize your GitHub statistics.
+
+Unlike static stats badges that only show current numbers, this template provides:
+- **Historical trends** - See how your stars, followers, and views grow over time
+- **Interactive charts** - Beautiful, responsive visualizations powered by Chart.js
+- **Zero maintenance** - Once set up, it updates automatically every day
+- **No coding required** - Just use this template, add one secret, and you're done
+
+It works for any GitHub user regardless of account size - from hobbyist with a few repos to open-source maintainer with hundreds.
+
+## Dashboard Preview
+
+![GitHub Metrics Dashboard](images/readme.png)
+
+![GitHub Metrics Dashboard](images/metrics.png)
+
 ## Quick Setup
 
 1. **Use this template** → Click the green "Use this template" button above
