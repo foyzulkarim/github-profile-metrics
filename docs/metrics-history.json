@@ -1,3 +1,13 @@
 {
-  "metrics": []
+  "metrics": [
+    {
+      "date": "2026-01-01",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "followers": 0,
+      "views_14d": 0
+    }
+  ]
 }

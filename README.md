@@ -53,21 +53,23 @@ Your dashboard will be live at: `https://<your-username>.github.io/<repo-name>/`
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->-<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->-<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->-<!--/TOTAL_FORKS--> |
-| Watchers | <!--TOTAL_WATCHERS-->-<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->-<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->-<!--/TOTAL_VIEWS--> |
+| Repositories | <!--TOTAL_REPOS-->0<!--/TOTAL_REPOS--> |
+| Stars | <!--TOTAL_STARS-->0<!--/TOTAL_STARS--> |
+| Forks | <!--TOTAL_FORKS-->0<!--/TOTAL_FORKS--> |
+| Watchers | <!--TOTAL_WATCHERS-->0<!--/TOTAL_WATCHERS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->0<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->0<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->Never (run workflow to populate)<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-01-01 00:22 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
 ### Top Repositories (by views, last 14 days)
 
 <!--TOP_REPOS_START-->
-*Run the workflow to see your top repositories*
+| Repository | Views |
+|------------|-------|
+
 <!--TOP_REPOS_END-->
 
 ---
